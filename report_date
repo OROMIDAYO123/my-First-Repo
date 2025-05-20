@@ -1,0 +1,3 @@
+#!/bin/bash
+FORMATED_DATE=$(date +"%d_%_m%Y:%M:S")
+echo "current date and time is $(date)"  
